@@ -1,0 +1,3 @@
+"""
+- Enums for ranks, suits, decktype...
+"""
